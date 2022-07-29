@@ -1,0 +1,3569 @@
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+@media screen and (min-width: 1441px) and (max-width: 1530px) {
+    .container {
+        max-width: 1300px;
+    }
+}
+@media screen and (min-width: 1531px) and (max-width: 1800px) {
+    .container {
+        max-width: 1400px;
+    }
+}
+@media screen and (min-width: 1801px) {
+    .container {
+        max-width: 1730px;
+    }
+}
+@media screen and (min-width: 1920px) {}
+@media screen and (max-width: 1800px) {
+    .circle_outer svg {
+        width: 560px;
+        position: absolute;
+        left: -27px;
+        top: -55px;
+    }
+    .common-banner-title h1::after {
+        top: 84px;
+    }
+    .miglied-btn-box a {
+        font-size: 20px;
+        padding: 14px 30px;
+    }
+    .menu-nav ul li {
+        margin-right: 30px;
+    }
+    .home-banner-content {
+        max-width: 690px;
+    }
+    .common-banner-title h1 {
+        font-size: 150px;
+    }
+    .home-banner-sub-title h2 {
+        font-size: 80px;
+    }
+    .home-banner-image-block {
+        max-width: 750px;
+    }
+    .leistungen-owl .item {
+        width: 260px;
+    }
+    .online-analyse-image-block {
+        max-width: 1180px;
+    }
+    .gewinnspiel-fitness-box {
+        padding: 40px;
+    }
+    .gf-left-col,
+    .gf-right-col {
+        width: 50%;
+    }
+    .gewinnspiel-title h2 {
+        font-size: 60px;
+    }
+    .gewinnspiel-title h2 span {
+        font-size: 180px;
+    }
+    .gf-sub-title h3 {
+        font-size: 30px;
+    }
+    .gf-inner-title h3 {
+        font-size: 28px;
+    }
+    .gf-inner-desc p {
+        font-size: 20px;
+    }
+    .wheel--box .wheel--box-inner {
+        width: 500px;
+        height: 515px;
+    }
+    .wheel-block {
+        max-width: 550px;
+    }
+    .fit-blog-image {
+        max-width: 1171px;
+    }
+    .fit-blog-content-box:before {
+        left: 15%;
+    }
+    .footer-right-col {
+        width: 550px;
+    }
+    .footer-left-col {
+        width: calc(100% - 550px);
+    }
+    /* ---------------- Service Page CSS Start ----------------*/
+    .service_page .common-banner-title h1 {
+        font-size: 134px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+}
+@media screen and (max-width: 1600px) {
+    .common-banner-title h1::after {
+        top: 66px;
+    }
+    .home-banner-image-block {
+        max-width: 650px;
+    }
+    .home-banner-content {
+        max-width: 550px;
+    }
+    .common-banner-title h1 {
+        font-size: 120px;
+    }
+    .home-banner-sub-title h2 {
+        font-size: 60px;
+    }
+    .leistungen-category-box {
+        padding: 40px;
+        border-radius: 50px;
+    }
+    .leistungen-category-image {
+        border-radius: 50px;
+    }
+    .online-analyse-image img {
+        min-height: 470px;
+        object-fit: cover;
+    }
+    .online-analyse-image-block {
+        max-width: 990px;
+    }
+    .mitglied-werden-image {
+        max-width: 930px;
+    }
+    .gf-left-col {
+        width: 46%;
+    }
+    .gf-right-col {
+        width: 54%;
+    }
+    .spinner-img:after {
+        width: 330px;
+        height: 45px;
+    }
+    .gf-inner-desc p {
+        font-size: 17px;
+    }
+    .fit-blog-content-box:before {
+        left: 10%;
+    }
+    .fit-blog-image {
+        max-width: 921px;
+    }
+    .ihr-erster-title h2 {
+        font-size: 100px;
+    }
+    .ihr-sub-title h4 {
+        font-size: 50px;
+    }
+    .ihr-erster-schritt-block {
+        min-height: 600px;
+    }
+    /* ---------------- Course Page CSS Start ----------------*/
+    .square_box {
+        width: 319px;
+    }
+    .vertical_slider {
+        max-width: 1280px;
+    }
+    .vertical_box_slider .slick-arrow {
+        right: -80px;
+    }
+    .verical_slider_section {
+        padding-top: 150px;
+        padding-bottom: 50px;
+    }
+    .tab_section {
+        max-width: 1280px;
+    }
+    .plan_right_imgs {
+        padding-left: 70px;
+    }
+    .number_circle_block .number_info {
+        padding-left: 70px;
+    }
+    /* ---------------- Course Page CSS Start ----------------*/
+    /* ---------------- Service Page CSS Start ----------------*/
+    .service_page .common-banner-title h1 {
+        font-size: 107px;
+    }
+    .sale_section {
+        padding-bottom: 100px;
+        padding-top: 120px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+    .top_border {
+        padding-top: 100px;
+    }
+    /* ---------------- Contact Page CSS Start ----------------*/
+    /* Öffnungszeiten Section Start */
+    .contact_section .contact_right_side {
+        padding-left: 100px;
+    }
+    .contact_section {
+        padding-top: 120px;
+    }
+    .contact_section .contact_schedule .schedule_data {
+        padding-bottom: 20px;
+    }
+    .contact_section .contact_right_side .schedule_title {
+        margin-top: 0px;
+        margin-bottom: 80px;
+    }
+    .contact_section .contact_three {
+        padding-bottom: 44px;
+    }
+    .contact_section .contact_three+.contact_three {
+        margin-top: 100px;
+    }
+    .contact_section .contact_three a,
+    .contact_section .contact_address p {
+        font-size: 28px;
+    }
+    .contact_section .contact_left_side h4,
+    .contact_section .contact_right_side h4 {
+        font-size: 35px;
+    }
+    .contact_section .contact_schedule .schedule_data h5,
+    .contact_section .contact_schedule .schedule_data p {
+        font-size: 30px;
+    }
+    .contact_section .schedule_inner {
+        max-width: 500px;
+    }
+    .contact_section .vertical_text span {
+        bottom: -280px;
+        right: -70px;
+        font-size: 160px;
+    }
+    .contact_section .contact_detail {
+        width: calc(100% - 270px);
+    }
+    /* Öffnungszeiten Section End */
+    /* Form Section Start */
+    .form_section .form_title {
+        padding-bottom: 30px;
+    }
+    .form_section .form_check_box .round label {
+        margin-bottom: 30px;
+    }
+    .form_section .input_boxes input {
+        margin-bottom: 20px;
+    }
+    .form_section .form_inner {
+        padding: 20px 50px 80px;
+        margin-top: 70px;
+    }
+    /* Form Section End */
+    /* ---------------- Contact Page CSS End ----------------*/
+    /* ---------------- News Page CSS Start ----------------*/
+    /* four Banner Section Start */
+    .news__description {
+        max-width: 310px;
+    }
+    .news_section .news_inner {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .news__date {
+        margin-bottom: 40px;
+    }
+    /* four Banner Section End */
+    /* Gradient Section Start */
+    .gradient_section {
+        padding: 100px 0px;
+    }
+    /* Gradient Section End */
+    /* ---------------- News Page CSS End ----------------*/
+}
+@media screen and (max-width: 1560px) {
+    /* ---------------- Course Page CSS Start ----------------*/
+    .kurs_plan_section {
+        padding-top: 80px;
+    }
+    .kurs_plan_slider {
+        margin-top: 100px;
+    }
+    .tab_slider .nav-tabs .nav-link {
+        width: 250px;
+    }
+    .tab_slider .nav-tabs {
+        max-width: 1000px;
+    }
+    .plan_page>span {
+        margin-bottom: 50px;
+    }
+    .tab_section {
+        margin-top: 60px;
+        max-width: 1230px;
+    }
+    .number_circle_block .number_info {
+        padding-left: 60px;
+    }
+    .plan_right_imgs {
+        padding-left: 90px;
+    }
+    .box_title h5 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .square_box {
+        height: 295px;
+        width: 307px;
+    }
+    .vertical_slider {
+        max-width: 1230px;
+    }
+    .vertical_box_slider .slick-arrow {
+        width: 50px;
+        height: 50px;
+    }
+    .montag_dropdown>p,
+    .montag_ctg_list li a {
+        font-size: 22px;
+    }
+    .top_line {
+        margin-bottom: 80px;
+    }
+    .course_page .gradient_section {
+        padding-bottom: 70px;
+    }
+    /* ---------------- Course Page CSS End ----------------*/
+    /* ---------------- Service Page CSS Start ----------------*/
+    .service_leistungen_section {
+        padding-top: 20px;
+    }
+    .service_card_outer {
+        padding-top: 80px;
+    }
+    .service_subtext h4 {
+        font-size: 50px;
+    }
+    .service_card_img {
+        max-height: 580px;
+    }
+    .service_card_data {
+        width: 43%;
+    }
+    .service_card {
+        margin-bottom: 100px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+    /* ---------------- Studio Page CSS Start ----------------*/
+    .user_team_banner {
+        padding-bottom: 90px;
+    }
+    .gallery_block {
+        margin-top: 80px;
+    }
+    .gallery_section {
+        padding-top: 70px;
+        padding-bottom: 80px;
+    }
+    .gall_img1 {
+        max-width: 570px;
+        height: auto;
+    }
+    .gall_img2 {
+        max-width: 400px;
+        height: auto;
+    }
+    .img_box {
+        margin-bottom: 50px;
+    }
+    .gall_imgbox_right {
+        padding-left: 20px;
+        padding-top: 90px;
+    }
+    .gall_img3 {
+        max-width: 430px;
+        height: auto;
+    }
+    .b_slider_padding {
+        padding: 80px 0px 80px 0px;
+    }
+    .top_border {
+        padding-top: 100px;
+    }
+    /* ---------------- Studio Page CSS End ----------------*/
+    /* ---------------- Contact Page CSS Start ----------------*/
+    /* Öffnungszeiten Section Start */
+    .contact_section .contact_three+.contact_three {
+        margin-top: 100px;
+    }
+    .contact_section .schedule_inner {
+        max-width: 450px;
+    }
+    .contact_section .contact_detail {
+        width: calc(100% - 253px);
+    }
+    .contact_section .contact_left_side h4::after,
+    .contact_section .contact_right_side h4::after {
+        height: 10px;
+    }
+    /* Öffnungszeiten Section End */
+    /* ---------------- Contact Page CSS End ----------------*/
+    /* ---------------- News Page CSS Start ----------------*/
+    /* four Banner Section Start */
+    .news_section .news_inner {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .news__title {
+        padding-top: 20px;
+        padding-bottom: 10px;
+        font-size: 30px;
+    }
+    .more_main {
+        margin-top: 30px;
+    }
+    .news__date {
+        margin-bottom: 30px;
+    }
+    .gradient_section .gredient_title h2 {
+        font-size: 70px;
+    }
+    /* four Banner Section End */
+    /* ---------------- News Page CSS End ----------------*/
+}
+@media screen and (max-width: 1440px) {
+    .circle_outer svg {
+        width: 509px;
+        left: -30px;
+        top: -83px;
+    }
+    .common-banner-title h1::after {
+        top: 57px;
+        height: 30px;
+    }
+    .logo-hold img {
+        max-width: 130px;
+    }
+    .miglied-btn-box a {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    .menu-nav ul li a {
+        font-size: 16px;
+        padding: 25px 0;
+    }
+    .menu-nav ul li .dropdown-submenu li>a {
+        font-size: 15px;
+    }
+    .home-banner-image-block {
+        max-width: 550px;
+    }
+    .common-banner-title h1 {
+        font-size: 100px;
+    }
+    .home-banner-sub-title h2 {
+        font-size: 50px;
+    }
+    .home-banner-content {
+        max-width: 460px;
+        padding-top: 40px;
+    }
+    .home-banner-sub-title {
+        padding: 30px 0 10px;
+    }
+    .home-banner-btn {
+        padding-top: 30px;
+    }
+    .leistungen-owl .item {
+        width: 225px;
+    }
+    .common-section-title {
+        padding: 10px 0 45px;
+    }
+    .common-section-title h2 {
+        font-size: 60px;
+        text-shadow: 0px 4px 0px var(--color-2);
+    }
+    .cm-title-right-shape {
+        max-width: 70%;
+        right: -65%;
+        top: -40px;
+    }
+    .bewertungen-block .cm-title-right-shape {
+        right: -64%;
+    }
+    .bewertungen-block .cm-title-left-shape {
+        left: -64%;
+    }
+    .cm-title-left-shape {
+        max-width: 85%;
+        bottom: -65px;
+    }
+    .section-title-icon svg {
+        max-width: 60px;
+    }
+    .bewertungen-content-col {
+        width: calc(100% - 450px);
+        padding-top: 80px;
+    }
+    .bewertungen-image-col {
+        width: 450px;
+    }
+    .online-analyse-image-block {
+        max-width: 850px;
+    }
+    .online-analyse-content {
+        margin-right: 60px;
+        max-width: 280px;
+    }
+    .online-analyse-content h3 {
+        font-size: 40px;
+    }
+    .online-analyse-block .cm-title-right-shape {
+        right: -55%;
+    }
+    .online-analyse-block .cm-title-left-shape {
+        left: -60%;
+    }
+    .online-analyse-section {
+        padding: 70px 0;
+    }
+    .mitglied-werden-image {
+        max-width: 850px;
+    }
+    .mitglied-werden-image img {
+        border-radius: 50px;
+    }
+    .mitglied-werden-content-block,
+    .mitglied-werden-content-block::after {
+        max-width: 575px;
+        padding: 35px;
+        border-radius: 30px;
+    }
+    .gewinnspiel-fitness-box {
+        padding: 20px;
+    }
+    .gewinnspiel-title h2 {
+        font-size: 50px;
+    }
+    .gf-sub-title h3 {
+        font-size: 25px;
+    }
+    .gewinnspiel-title h2 span {
+        font-size: 150px;
+    }
+    .gf-inner-title h3 {
+        font-size: 22px;
+    }
+    .gf-details-block {
+        margin-top: 60px;
+    }
+    .gf-right-col,
+    .gf-left-col {
+        width: 50%;
+    }
+    .wheel--box .wheel--box-inner {
+        width: 450px;
+        height: 465px;
+    }
+    .wheel-block {
+        max-width: 450px;
+    }
+    .gewinnspiel-block .cm-title-right-shape {
+        right: -60%;
+    }
+    .gewinnspiel-block .cm-title-left-shape {
+        left: -60%;
+    }
+    .gf-inner-desc {
+        padding-right: 55px;
+    }
+    .gf-details-block {
+        padding-right: 40px;
+    }
+    .gf-inner-btn {
+        padding-right: 90px;
+    }
+    .fit-blog-content-box:before {
+        left: 15%;
+        top: 15%;
+    }
+    .fit-blog-image {
+        max-width: 831px;
+        bottom: 210px;
+    }
+    .fit-blog-section .cm-title-right-shape {
+        right: -65%;
+    }
+    .fit-blog-section .cm-title-left-shape {
+        left: -55%;
+    }
+    .faq-col {
+        padding: 0 20px;
+    }
+    .faq-accordion-block {
+        margin: 0 -20px;
+    }
+    .ct_accordion_lable span {
+        top: 0;
+        transform: unset;
+    }
+    .ct_accordion_lable h3 {
+        font-size: 20px;
+    }
+    .faq-block .cm-title-right-shape {
+        right: -85%;
+        max-width: 100%;
+    }
+    .faq-block .cm-title-left-shape {
+        left: -125%;
+        max-width: 100%;
+        min-width: 200px;
+    }
+    .ihr-form {
+        max-width: 880px;
+    }
+    .footer-right-col {
+        width: 350px;
+    }
+    .footer-left-col {
+        width: calc(100% - 350px);
+        padding-right: 30px;
+    }
+    /* ---------------- Course Page CSS Start ----------------*/
+    .square_box {
+        height: 295px;
+        width: 289px;
+    }
+    .vertical_slider {
+        max-width: 1160px;
+    }
+    .tab_section {
+        max-width: 1160px;
+    }
+    .plan_right_imgs {
+        padding-left: 50px;
+    }
+    /* ---------------- Course Page CSS End ----------------*/
+    /* ---------------- Service Page CSS Start ----------------*/
+    .service_page .common-banner-title h1 {
+        font-size: 89px;
+    }
+    .sale_section {
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+    /* ---------------- Studio Page CSS start ----------------*/
+    .bottom_sldier_section {
+        padding-bottom: 170px;
+        padding-top: 120px;
+    }
+    .sale_section .fit-sale-block {
+        max-width: 1235px;
+    }
+    .sale_section .wir-sale-title h2 {
+        font-size: 116px;
+    }
+    /* ---------------- Studio Page CSS End ----------------*/
+    /* ---------------- Contact Page CSS Start ----------------*/
+    /* Öffnungszeiten Section Start */
+    .contact_section {
+        padding-bottom: 50px;
+    }
+    .contact_section .contact_three+.contact_three {
+        margin-top: 100px;
+    }
+    .contact_section .contact_left_side {
+        padding-right: 63px;
+    }
+    .contact_section .contact_right_side {
+        padding-left: 90px;
+    }
+    .contact_section .schedule_inner {
+        max-width: 430px;
+    }
+    .contact_section .contact_detail {
+        width: calc(100% - 174px);
+    }
+    /* Öffnungszeiten Section End */
+    /* Form Section Start */
+    .form_section .cm-title-right-shape {
+        right: -55%;
+    }
+    .form_section .cm-title-left-shape {
+        left: -55%;
+    }
+    /* Form Section End */
+    /* ---------------- Contact Page CSS End ----------------*/
+    /* ---------------- News Page CSS Start ----------------*/
+    /* four Banner Section End */
+    .news__title {
+        padding-bottom: 5px;
+        font-size: 27px;
+    }
+    .news__title:after {
+        width: 100px;
+        height: 6px;
+    }
+    .news__date {
+        margin-bottom: 20px;
+    }
+    .news_section .news_inner {
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .news_section .news_inner_one {
+        padding-top: 100px;
+    }
+    /* four Banner Section End */
+    /* Gradient Section Start */
+    .gradient_section .gredient_title h2 {
+        font-size: 65px;
+    }
+    /* Gradient Section End */
+    /* ---------------- News Page CSS End ----------------*/
+}
+@media screen and (max-width: 1360px) {
+    /* ---------------- Course Page CSS Start ----------------*/
+    .bottom_download {
+        margin-top: 30px;
+    }
+    .vertical_slider {
+        max-width: 1020px;
+    }
+    .top_line {
+        margin-bottom: 50px;
+    }
+    .vertical_box_slider {
+        margin-top: 30px;
+    }
+    .square_box {
+        width: 254px;
+        height: 261px;
+        padding: 25px 25px;
+    }
+    .square_box_btn .box_btn {
+        width: 150px;
+    }
+    .vertical_box_slider .slick-arrow {
+        width: 40px;
+        height: 40px;
+    }
+    .vertical_box_slider .slick-arrow {
+        right: -65px;
+    }
+    .box_title h5 {
+        font-size: 28px;
+        margin-top: 10px;
+    }
+    .tab_section {
+        max-width: 1020px;
+    }
+    .plan_right_imgs {
+        padding-left: 20px;
+    }
+    .number_circle_block {
+        margin-bottom: 50px;
+    }
+    .vertical_box_slider .slick-arrow svg {
+        width: 12px;
+    }
+    .verical_slider_section {
+        padding-top: 80px;
+    }
+    .course_page .gradient_section {
+        padding-bottom: 50px;
+    }
+    /* ---------------- Course Page CSS End ----------------*/
+    /* ---------------- Studio Page CSS Start ----------------*/
+    .studio_page .gradient_section {
+        padding-bottom: 50px;
+    }
+    .team_member_details p {
+        font-size: 14px;
+    }
+    .team_member_details h3 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .bottom_sldier_section {
+        padding-top: 100px;
+        padding-bottom: 120px;
+    }
+    .gall_img1 {
+        max-width: 450px;
+    }
+    .gall_img2 {
+        max-width: 320px;
+    }
+    .gall_img3 {
+        max-width: 330px;
+    }
+    .gall_img4 {
+        max-width: 456px;
+        height: auto;
+    }
+    .img_box {
+        border-radius: 40px;
+    }
+    /* ---------------- Studio Page CSS End ----------------*/
+    /* ---------------- Contact Page CSS Start ----------------*/
+    /* Öffnungszeiten Section Start */
+    .contact_section .contact_three+.contact_three {
+        margin-top: 80px;
+    }
+    .contact_section .schedule_inner {
+        max-width: 398px;
+    }
+    .contact_section .vertical_text span {
+        font-size: 145px;
+        right: -85px;
+    }
+    .contact_section .contact_right_side .schedule_title {
+        margin-bottom: 60px;
+    }
+    .contact_section .contact_schedule .schedule_data h5,
+    .contact_section .contact_schedule .schedule_data p {
+        font-size: 28px;
+    }
+    /* Öffnungszeiten Section End */
+    /* Form Section Start */
+    .form_section .form_inner {
+        padding: 20px 0px 100px;
+    }
+    .form_section form {
+        max-width: 920px;
+    }
+    .form_section .form_title h3 {
+        font-size: 30px;
+    }
+    /* Form Section End */
+    /* ---------------- Contact Page CSS End ----------------*/
+    /* ---------------- News Page CSS Start ----------------*/
+    /* Four Banner Section Start */
+    .news__title {
+        padding-bottom: 5px;
+        padding-top: 12px;
+        font-size: 24px;
+    }
+    .news__date {
+        margin-bottom: 13px;
+    }
+    /* Four Banner Section End */
+    /* ---------------- News Page CSS End ----------------*/
+    .sale_section .fit-sale-block {
+        max-width: 1155px;
+    }
+    .sale_section .wir-product-img {
+        max-width: 240px;
+    }
+    .sale_section .fit-wir-label p {
+        font-size: 36px;
+    }
+    .sale_section .wi-product-btn a {
+        font-size: 22px;
+    }
+    .sale_section .wie-dein-link a {
+        font-size: 20px;
+    }
+    .sale_section .fit-sale-box {
+        height: 362px;
+    }
+}
+@media screen and (max-width: 1199px) {
+    .circle_outer svg {
+        width: 437px;
+        left: -18px;
+        top: -110px;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .leistungen-owl .item {
+        width: 200px;
+    }
+    .lc-category-title h3 {
+        font-size: 22px;
+    }
+    .common-desc p,
+    .common-more-btn a {
+        font-size: 16px;
+    }
+    .lc-blur-title h3 {
+        font-size: 30px;
+    }
+    .leistungen-category-blur-box {
+        padding: 45px 30px 50px;
+        width: 240px;
+    }
+    .leistungen-section,
+    .bewertungen-section {
+        padding: 70px 0;
+    }
+    .online-analyse-image-block {
+        max-width: 100%;
+        padding-left: 330px;
+    }
+    .online-analyse-content {
+        margin-right: 0;
+        max-width: 280px;
+        left: 15px;
+    }
+    .gewinnspiel-fitness-box {
+        padding: 0;
+    }
+    .fit-blog-content-box:before {
+        left: 60px;
+        top: 17%;
+        font-size: 250px;
+    }
+    .fit-blog-content-box {
+        min-height: 850px;
+        padding-top: 10%;
+        border-radius: 50px;
+    }
+    .fit-blog-img {
+        min-height: 700px;
+    }
+    .fit-blog-image img {
+        border-radius: 50px 0 0 50px;
+    }
+    .fit-blog-image {
+        max-width: 751px;
+    }
+    .ihr-erster-title h2 {
+        font-size: 80px;
+    }
+    .ihr-sub-title h4 {
+        font-size: 40px;
+    }
+    .ihr-erster-schritt-block {
+        min-height: auto;
+        padding: 30px 20px 60px;
+    }
+    .ihr-erster-schritt-section {
+        padding-bottom: 70px;
+    }
+    /* ---------------- Course Page CSS Start ----------------*/
+    .montag_ctg_list {
+        z-index: unset;
+    }
+    .montag_dropdown>p::after {
+        width: 16px;
+        height: 16px;
+    }
+    ul.montag_list {
+        margin-top: 0;
+    }
+    .number_circle svg {
+        width: 95px;
+    }
+    .number_circle svg .mkc_info {
+        font-size: 35px;
+    }
+    .kurs_plan_slider .owl-theme .owl-nav [class*=owl-] span {
+        width: 17px;
+        height: 25px;
+    }
+    .kurs_plan_slider .owl-carousel .owl-nav button.owl-prev:after {
+        height: 26px;
+        top: 18px;
+    }
+    .kurs_plan_slider {
+        margin-top: 70px;
+    }
+    .number_info h3 {
+        font-size: 26px;
+    }
+    .tab_section {
+        max-width: 869px;
+    }
+    .number_info p {
+        font-size: 16px;
+    }
+    .tab_slider .p_img {
+        max-width: 315px;
+    }
+    .number_circle_block {
+        margin-bottom: 25px;
+    }
+    .tab_slider .nav-tabs .nav-item.show .nav-link,
+    .tab_slider .nav-tabs .nav-link.active {
+        font-size: 26px;
+    }
+    .tab_slider .nav-tabs .nav-link {
+        font-size: 20px;
+        width: 180px;
+    }
+    .tab_slider .nav-tabs {
+        max-width: 750px;
+    }
+    .tab_slider .nav-tabs .nav-link::after {
+        bottom: -2px;
+        height: 4px;
+    }
+    .plan_page>span {
+        margin-bottom: 30px;
+        font-size: 28px;
+    }
+    .plan_right_imgs {
+        padding-left: 50px;
+    }
+    .vertical_slider {
+        max-width: 869px;
+    }
+    .square_box {
+        width: 216px;
+        height: 250px;
+    }
+    .vertical_box_slider .slick-arrow {
+        right: -50px;
+    }
+    .vertical_box_slider {
+        margin-top: 30px;
+    }
+    .montag_ctg_list li a {
+        font-size: 20px;
+        padding: 15px;
+    }
+    .montag_dropdown {
+        padding: 15px;
+    }
+    .montag_dropdown>p {
+        font-size: 20px;
+    }
+    .square_box_btn .box_btn {
+        width: 130px;
+        font-size: 16px;
+    }
+    .box_title h5 {
+        font-size: 25px;
+    }
+    .montag_dropdown>p::after {
+        top: 17px;
+    }
+    .montag_select {
+        min-width: 170px;
+    }
+    /* ---------------- Course Page CSS End ----------------*/
+    /* ---------------- Service Page CSS Start ----------------*/
+    .sale_section .wir-sale-title h2 {
+        font-size: 86px;
+    }
+    .sale_section .wir-sale-details {
+        height: auto;
+    }
+    .sale_section .wir-product-img {
+        max-width: 180px;
+        top: 0;
+    }
+    .sale_section .wir-new-product h3 {
+        font-size: 37px;
+    }
+    .sale_section .wir-new-product p {
+        font-size: 32px;
+    }
+    .sale_section .wir-shape-block {
+        max-width: 540px;
+    }
+    .sale_section .fit-sale-block {
+        max-width: 935px;
+    }
+    .sale_section .fit-wir-label {
+        width: 265px;
+    }
+    .sale_section .fit-wir-label p {
+        font-size: 30px;
+    }
+    .sale_section .fit-sale-box {
+        height: 322px;
+    }
+    .wir-line-shape {
+        left: -154px;
+    }
+    .middle_card .service_card_data {
+        padding-right: 40px;
+    }
+    .service_card_img {
+        max-height: 550px;
+    }
+    .service_card_data {
+        padding-left: 40px;
+    }
+    .number_block .number {
+        font-size: 23px;
+    }
+    .service_info {
+        margin-bottom: 10px;
+    }
+    .service_card .more_main {
+        margin-top: 20px;
+    }
+    .service_checkmark svg {
+        width: 20px;
+    }
+    .service_subtext h4 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .sale_section {
+        padding-bottom: 50px;
+        padding-top: 20px;
+    }
+    .service_leistungen_section {
+        padding-bottom: 70px;
+    }
+    .service_leistungen_section .owl-theme .owl-nav {
+        margin-top: 0;
+    }
+    .sale_section .wir-sale-details {
+        margin-top: 0px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+    /* ---------------- Studio Page CSS Start ----------------*/
+    .top_border {
+        padding-top: 70px;
+    }
+    .user_team_banner {
+        padding-bottom: 50px;
+    }
+    .unser_team_slider {
+        padding-top: 70px;
+    }
+    .bottom_slider_img {
+        border-radius: 30px;
+    }
+    .bottom_sldier_section {
+        padding-top: 70px;
+        padding-bottom: 130px;
+    }
+    .unser_team_section .owl-item:nth-child(odd) .unser_item {
+        margin-top: 32px;
+    }
+    .unser_team_section .owl-item:nth-child(even) .unser_item {
+        margin-top: 0px;
+    }
+    /* ---------------- Studio Page CSS End ----------------*/
+    /* ---------------- Contact Page CSS Start ----------------*/
+    /* Öffnungszeiten Section Start */
+    .contact_section .contact_right_side {
+        padding-left: 60px;
+    }
+    .contact_section .contact_left_side {
+        padding-right: 40px;
+    }
+    .contact_section .schedule_inner {
+        max-width: 360px;
+    }
+    .contact_section {
+        padding-top: 90px;
+    }
+    .contact_detail {
+        width: calc(100% - 100px);
+    }
+    .contact_section .contact_schedule .schedule_data h5,
+    .contact_section .contact_schedule .schedule_data p,
+    .contact_section .contact_three a,
+    .contact_section .contact_address p {
+        font-size: 26px;
+    }
+    .contact_section .contact_left_side h4::after,
+    .contact_section .contact_right_side h4::after {
+        bottom: 0;
+        height: 9px;
+    }
+    .contact_section .contact_left_side h4,
+    .contact_section .contact_right_side h4 {
+        font-size: 30px;
+    }
+    .contact_section .contact_right_side .schedule_title {
+        margin-bottom: 55px;
+    }
+    /* Öffnungszeiten Section End */
+    /* Form Section Start */
+    .form_section .form_inner {
+        margin-top: 50px;
+        padding: 20px 0px 60px;
+    }
+    .form_section .input_boxes input,
+    .form_section .input_boxes textarea {
+        padding: 8px 30px;
+    }
+    .form_section .form_check_box .round label:before {
+        width: 20px;
+        height: 20px;
+        left: 7px;
+        top: 4px;
+        border-radius: 5px;
+    }
+    .form_section .form_check_box .round label::after {
+        width: 7px;
+        height: 13px;
+        top: 6px;
+        left: 13px;
+    }
+    .form_section .form_title h3 {
+        font-size: 25px;
+    }
+    .form_section .cm-title-right-shape {
+        right: -40%;
+    }
+    .form_section .cm-title-left-shape {
+        left: -65%;
+    }
+    /* Form Section End*/
+    /* ---------------- Contact Page CSS End ----------------*/
+    /* ---------------- News Page CSS Start ----------------*/
+    /* Four Banner Section Start */
+    .news_section .news_inner_one {
+        padding-top: 50px;
+    }
+    .news_section .news_inner {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+    .news__description {
+        font-size: 16px;
+    }
+    /* Four Banner Section End */
+    /* Gredient Section Start  */
+    .gradient_section .gredient_title h2 {
+        font-size: 45px;
+    }
+    .gradient_section .gradient_paragraph p {
+        font-size: 20px;
+        margin: 15px 0px;
+    }
+    .gradient_section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    /* Gredient Section End  */
+    /* ---------------- News Page CSS End ----------------*/
+}
+@media screen and (max-width: 1080px) {
+    .common-banner-title h1::after {
+        top: 47px;
+    }
+    .spinner-img {
+        padding: 25px;
+    }
+    .home-banner-image-block {
+        max-width: 450px;
+    }
+    .common-banner-title h1 {
+        font-size: 80px;
+    }
+    .home-banner-sub-title h2 {
+        font-size: 40px;
+    }
+    .home-banner-content {
+        max-width: 370px;
+    }
+    .home-banner-section {
+        margin: 60px 0;
+    }
+    .service_banner {
+        margin-top: 100px;
+    }
+    .bewertungen-content-col {
+        padding-top: 50px;
+        padding-left: 50px;
+        width: calc(100% - 400px);
+    }
+    .bewertungen-image-col {
+        width: 400px;
+    }
+    .bewertungen-owl.owl-theme .owl-nav {
+        left: 2%;
+        bottom: -10px;
+    }
+    .bewertungen-img:before {
+        top: -25px;
+        font-size: 250px;
+    }
+    .wheel--box .wheel--box-inner {
+        width: 400px;
+        height: 415px;
+    }
+    .gewinnspiel-title h2 {
+        font-size: 40px;
+    }
+    .gewinnspiel-title h2 span {
+        font-size: 120px;
+    }
+    .gf-details-block {
+        margin-top: 40px;
+    }
+    .gf-sub-title h3 {
+        font-size: 20px;
+    }
+    .gf-line {
+        width: 150px;
+    }
+    .wheel--button a {
+        width: 124px;
+        height: 124px;
+        font-size: 24px;
+        line-height: 1.2;
+    }
+    .gf-inner-title h3 {
+        font-size: 18px;
+    }
+    .gf-inner-desc p {
+        font-size: 15px;
+    }
+    .wheel-block {
+        max-width: 400px;
+    }
+    /* ---------------- Service Page CSS Start ----------------*/
+    .service_page .common-banner-title h1 {
+        font-size: 71px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+}
+@media screen and (max-width: 991px) {
+    .down-menu-arow{
+        display: none;
+    }
+    .service_banner {
+        margin-top: 60px;
+    }
+    .contact-form {
+        display: none;
+    }
+    .menu-toggle-btn {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        position: relative;
+        z-index: 2;
+    }
+    .header-block .menu-nav-block {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: calc(100% - 50px);
+        background-color: var(--color-1);
+        z-index: 1;
+        padding: 50px 0px 30px;
+        opacity: 0;
+        visibility: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        -webkit-transition: all 0.5s ease 0s;
+        -moz-transition: all 0.5s ease 0s;
+        -ms-transition: all 0.5s ease 0s;
+        -o-transition: all 0.5s ease 0s;
+        transition: all 0.5s ease 0s;
+        margin-right: 0px;
+    }
+    .mobile-open .header-block .menu-nav-block {
+        opacity: 1;
+        visibility: visible;
+        top: 50px;
+    }
+    header {
+        backdrop-filter: unset;
+        -webkit-backdrop-filter: unset;
+        background-color: var(--color-1);
+    }
+    .menu-nav {
+        height: 100%;
+        border-radius: 0 0 30px 30px;
+        padding: 0 40px;
+        border-bottom: 1px solid var(--color-32);
+    }
+    .menu-nav>ul {
+        display: flex;
+        flex-flow: column;
+        overflow-y: auto;
+        height: calc(100% - 100px);
+    }
+    .mobile-display-mitglied {
+        text-align: center;
+        width: 100%;
+        display: block;
+        margin-top: 20px;
+    }
+    .miglied-btn-block {
+        display: none;
+    }
+    .logo-hold img {
+        max-height: 50px;
+    }
+    .menu-nav ul li {
+        margin-right: 0px;
+    }
+    .menu-nav ul li a {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: 300;
+        font-size: 22px;
+        padding: 11px 0;
+        border-bottom: 1px solid var(--color-6);
+        display: block;
+    }
+    .menu-nav ul li:last-child a {
+        border-bottom: 0;
+    }
+    .menu-nav ul li a:after,
+    .menu-nav ul li a:before {
+        display: none;
+    }
+    .long-common-line {
+        display: none;
+    }
+    .online-analyse-content {
+        background-color: transparent;
+    }
+    .dropdown-submenu {
+        position: static;
+        transform: inherit !important;
+        display: none;
+        transition: none;
+        background: transparent;
+        box-shadow: none;
+        border: 0;
+        margin-top: 10px;
+        text-align: left;
+        padding-left: 40px;
+    }
+    .menu-nav ul li.has-submenu.cm-active a i {
+        transform: rotate(180deg);
+    }
+    .menu-nav ul li:hover a i {
+        transform: unset;
+    }
+    .menu-nav ul li .dropdown-submenu li>a {
+        font-size: 16px;
+        font-family: 'Roboto Condensed', sans-serif;
+        padding: 5px 0;
+        border-bottom: 0;
+    }
+    .menu-nav ul li .dropdown-submenu li {
+        width: 100%;
+    }
+    .leistungen-owl .item {
+        width: 180px;
+        margin: 0 auto;
+    }
+    .leistungen-category-image {
+        border-radius: 30px;
+    }
+    .leistungen-category-blur-box {
+        padding: 25px;
+        width: 225px;
+    }
+    .lc-blur-title h3 {
+        font-size: 25px;
+    }
+    .common-section-title {
+        padding: 0px 0 35px;
+    }
+    .common-section-title h2 {
+        font-size: 50px;
+        text-shadow: 0px 3px 0px var(--color-2);
+    }
+    .section-title-icon svg {
+        max-width: 50px;
+    }
+    .section-title-icon {
+        margin-right: 30px;
+    }
+    .cm-title-right-shape {
+        max-width: 50%;
+        right: -45%;
+        top: -30px;
+    }
+    .bewertungen-block .cm-title-right-shape {
+        right: -40%;
+    }
+    .cm-title-left-shape {
+        bottom: -55px;
+        left: -60%;
+    }
+    .leistungen-section {
+        padding: 70px 0;
+    }
+    .all-section-underline {
+        padding-top: 60px;
+    }
+    .bewertungen-content .common-desc p {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+    .bewertungen-slider-title h3 {
+        font-size: 30px;
+    }
+    .bewertungen-slider-title p {
+        font-size: 20px;
+    }
+    .bewertungen-owl.owl-theme .owl-nav {
+        left: 12%;
+    }
+    .online-analyse-content .common-section-btn {
+        padding-top: 60px;
+    }
+    .online-analyse-content {
+        max-width: 230px;
+    }
+    .online-analyse-image-block {
+        padding-left: 280px;
+        margin-top: 70px;
+    }
+    .online-analyse-content h3 {
+        font-size: 30px;
+    }
+    .online-analyse-image {
+        border-radius: 30px 0 0 30px;
+    }
+    .online-analyse-image img {
+        min-height: 300px;
+    }
+    .mitglied-werden-image {
+        max-width: 760px;
+    }
+    .mitglied-werden-section {
+        margin-top: 0;
+        padding: 70px 0;
+    }
+    .gf-left-col {
+        width: 45%;
+    }
+    .gf-right-col {
+        width: 55%;
+    }
+    .gewinnspiel-fitness-box {
+        margin-top: 70px;
+    }
+    .gewinnspiel-section {
+        padding-bottom: 80px;
+    }
+    .wheel-block {
+        margin: 0 auto;
+    }
+    .wheel--box {
+        top: 0;
+        right: 0;
+    }
+    .wheel-block:after {
+        display: none;
+    }
+    .wheel-block {
+        background-color: transparent;
+    }
+    .gewinnspiel-fitness-block {
+        padding: 0;
+    }
+    .gewinnspiel-title h2 span,
+    .gewinnspiel-title h2 {
+        font-size: 30px;
+        color: var(--color-5);
+    }
+    .gewinnspiel-content-block {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .gf-details-block {
+        text-align: center;
+        padding: 0;
+        margin-top: 15px;
+    }
+    .gf-inner-btn,
+    .gf-inner-desc {
+        padding-right: 0;
+    }
+    .gf-inner-title {
+        padding: 25px 0;
+    }
+    .gf-inner-desc,
+    .gewinnspiel-fitness-block:after {
+        display: none;
+    }
+    .gf-inner-btn {
+        padding-top: 0;
+    }
+    .fit-blog-image {
+        max-width: 551px;
+    }
+    .fit-blog-content-box .common-more-btn {
+        padding-top: 30px;
+    }
+    .fit-blog-section .cm-title-right-shape {
+        right: -45%;
+    }
+    .fit-blog-block {
+        padding-top: 70px;
+    }
+    .fit-blog-content-box:before {
+        top: 9%;
+    }
+    .fit-blog-content-box {
+        max-width: 600px;
+        padding-top: 15%;
+    }
+    .spinner-img {
+        padding: 22px;
+    }
+    .fit-blog-section {
+        padding-bottom: 80px;
+    }
+    .faq-block {
+        margin-bottom: 70px;
+    }
+    .faq-section {
+        padding-top: 70px;
+    }
+    .ihr-erster-title h2 {
+        font-size: 60px;
+    }
+    .ihr-sub-title h4 {
+        font-size: 30px;
+    }
+    .footer-left-col {
+        width: 100%;
+        padding: 0;
+    }
+    .footer-right-col {
+        display: none;
+    }
+    .footer-social-icon {
+        padding: 80px 0 40px;
+    }
+    /* ---------------- Course Page CSS Start ----------------*/
+    .montag_ctg_list {
+        max-width: 440px;
+    }
+    .montag_dropdown>p {
+        padding-right: 20px;
+    }
+    .montag_ctg_list li a::after {
+        height: 3px;
+    }
+    .montag_dropdown>p,
+    .montag_ctg_list li a,
+    ul.montag_list li {
+        font-size: 16px;
+    }
+    .montag_list.showMenu {
+        top: 42px;
+    }
+    .square_box {
+        width: 159px;
+        height: 187px;
+        padding: 15px 15px;
+    }
+    .vertical_box_slider .slick-arrow {
+        right: -43px;
+    }
+    .vertical_box_slider .slick-arrow {
+        width: 30px;
+        height: 30px;
+    }
+    .download_btn h4 {
+        font-size: 16px;
+    }
+    .bottom_download svg {
+        width: 30px;
+    }
+    .vertical_box_slider .slick-arrow svg {
+        width: 10px;
+    }
+    .square_box_btn {
+        margin-top: 15px;
+    }
+    .montag_ctg_list {
+        padding-left: 5px;
+    }
+    .montag_dropdown>p::after {
+        width: 12px;
+        height: 12px;
+        top: 15px;
+    }
+    .montag_dropdown {
+        padding: 13px;
+    }
+    .box_title h5 {
+        font-size: 20px;
+    }
+    .montag_select {
+        min-width: 143px;
+    }
+    .square_box .box_top_text span,
+    .box_time_block p {
+        font-size: 14px;
+    }
+    .box_time_block p {
+        padding-top: 15px;
+    }
+    .vertical_slider {
+        max-width: 640px;
+    }
+    .square_box_btn .box_btn {
+        width: 95px;
+        padding: 4px 8px;
+        font-size: 14px;
+    }
+    .tab_section {
+        max-width: 680px;
+    }
+    .tab_slider .p_img {
+        max-width: 245px;
+    }
+    .number_circle_block .number_info {
+        padding-left: 30px;
+    }
+    .number_info h3 {
+        font-size: 20px;
+    }
+    .plan_page>span {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .p_img_top {
+        top: 100px;
+    }
+    .kurs_plan_slider .owl-theme .owl-nav {
+        right: 40%;
+    }
+    .tab_slider .nav-tabs {
+        max-width: 540px;
+    }
+    .tab_slider .nav-tabs .nav-link {
+        width: 130px;
+    }
+    .tab_slider .nav-tabs .nav-item.show .nav-link,
+    .tab_slider .nav-tabs .nav-link.active {
+        font-size: 23px;
+    }
+    .montag_ctg_list li a {
+        padding: 13px;
+    }
+    .number_circle svg {
+        width: 85px;
+        height: 85px;
+    }
+    .number_circle_block {
+        align-items: flex-start;
+    }
+    /* ---------------- Course Page CSS End ----------------*/
+    /* ---------------- Service Page CSS Start ----------------*/
+    .service_subtext h4 {
+        font-size: 22px;
+        margin-top: 5px;
+    }
+    .service_card_img {
+        max-height: 400px;
+        border-radius: 50px;
+    }
+    .service_card_data {
+        padding-left: 30px;
+    }
+    .service_btn {
+        margin-top: 35px;
+    }
+    .checkmark_label p {
+        font-size: 16px;
+    }
+    .sale_section .wir-sale-title h2 {
+        font-size: 56px;
+        padding-left: 0;
+    }
+    .sale_section .wir-new-product p {
+        font-size: 24px;
+    }
+    .sale_section .wir-new-product h3 {
+        font-size: 30px;
+    }
+    .sale_section .wir-product-img {
+        max-width: 129px;
+    }
+    .sale_section .wi-product-btn a {
+        font-size: 16px;
+    }
+    .sale_section .wie-dein-link a {
+        padding: 0;
+        font-size: 17px;
+    }
+    .sale_section .fit-sale-box {
+        height: 242px;
+        border-radius: 0 40px 40px 40px;
+    }
+    .sale_section .fit-sale-block {
+        max-width: 725px;
+    }
+    .sale_section .fit-wir-label p {
+        font-size: 20px;
+    }
+    .sale_section .fit-wir-label {
+        width: 195px;
+    }
+    .sale_section .wir-shape-block {
+        max-width: 393px;
+    }
+    .service_description {
+        margin-top: 10px;
+    }
+    .wir-line-shape {
+        left: -111px;
+    }
+    .service_card {
+        margin-bottom: 70px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+    /* ---------------- Studio Page CSS Start ----------------*/
+    .unser_team_section {
+        padding-bottom: 140px;
+    }
+    .team_member_details h3 {
+        padding-bottom: 0px;
+    }
+    .gall_img3 {
+        max-width: 240px;
+    }
+    .gall_img2 {
+        max-width: 270px;
+    }
+    .img_box {
+        margin-bottom: 30px;
+    }
+    .gall_imgbox_right {
+        padding-left: 0px;
+        padding-top: 80px;
+    }
+    /* ---------------- Studio Page CSS End ----------------*/
+    /* ---------------- Contact Page CSS Start ----------------*/
+    /* Öffnungszeiten Section Start */
+    .contact_section .contact_right_side {
+        padding-left: 40px;
+    }
+    .contact_section .contact_left_side {
+        padding-right: 10px;
+    }
+    .contact_section .schedule_inner {
+        max-width: 310px;
+    }
+    .contact_section .contact_schedule .schedule_data h5,
+    .contact_section .contact_schedule .schedule_data p,
+    .contact_section .contact_three a,
+    .contact_section .contact_address p {
+        font-size: 23px;
+    }
+    .contact_section .contact_inner_title {
+        width: 154px;
+    }
+    .contact_section .contact_detail {
+        width: calc(100% - 100px);
+    }
+    .contact_section {
+        padding-bottom: 20px;
+    }
+    .contact_section .vertical_text span {
+        bottom: -260px;
+    }
+    .contact_section .vertical_text span {
+        font-size: 100px;
+        right: -50px;
+    }
+    /* Öffnungszeiten Section End */
+    /* Form Section Start  */
+    .form_section form {
+        max-width: 700px;
+    }
+    .form_section .form_title {
+        padding-bottom: 20px;
+    }
+    .form_section .input_boxes input {
+        margin-bottom: 15px;
+    }
+    .form_section .cm-title-left-shape {
+        left: -55%;
+    }
+    /* Form Section End */
+    /* ---------------- Contact Page CSS End ----------------*/
+    /* ---------------- News Page CSS Start ----------------*/
+    /* News Banner Section Start */
+    .news__description {
+        max-width: 100%;
+    }
+    .more_main {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .gradient_section .gradient_box {
+        border-radius: 40px;
+        padding: 30px 20px;
+    }
+    .news_section .news-single-row .display_order {
+        order: 1;
+    }
+    .mobile_view_show {
+        display: block;
+    }
+    .mobile_view_hide {
+        display: none;
+    }
+    .news__description {
+        padding-top: 25px;
+    }
+    .news__title {
+        padding-top: 30px;
+    }
+    .news_section .news_inner {
+        border-bottom: unset;
+        padding-bottom: 0;
+    }
+    .news_section .news_slider_owl {
+        padding-bottom: 20px;
+        border-bottom: 1px solid var(--color-4);
+    }
+    .news_section .right_img {
+        height: 200px;
+    }
+    .news_section .news__right_side img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .news_section .owl-theme .owl-nav,
+    .all_services .owl-theme .owl-nav {
+        display: flex;
+        justify-content: center;
+    }
+    .news_section .owl-carousel .owl-nav button.owl-prev,
+    .news_section .owl-carousel .owl-nav button.owl-next {
+        position: unset;
+    }
+    /* News Banner Section End */
+    /* ---------------- News Page CSS End ----------------*/
+}
+@media screen and (max-width: 850px) {
+    .common-banner-title h1::after {
+        top: 35px;
+        height: 20px;
+    }
+    .home-banner-sub-title h2 {
+        font-size: 30px;
+    }
+    .common-banner-title h1 {
+        font-size: 60px;
+    }
+    .home-banner-desc p {
+        font-size: 16px;
+    }
+    .common-border-btn {
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+    .home-banner-content {
+        max-width: 320px;
+    }
+    .home-banner-image-block {
+        max-width: 380px;
+        left: 15px;
+    }
+    .leistungen-category-image {
+        border-radius: 30px;
+    }
+    .leistungen-category-slider-block {
+        margin-top: 40px;
+    }
+    .leistungen-owl .item {
+        width: 150px;
+    }
+    .bewertungen-owl.owl-theme .owl-nav {
+        left: 22%;
+    }
+    .bewertungen-content-col {
+        width: calc(100% - 350px);
+    }
+    .bewertungen-image-col {
+        width: 350px;
+    }
+    .bewertungen-img-shape {
+        width: 220px;
+        height: 220px;
+    }
+    .bewertungen-btn {
+        margin-top: 80px;
+    }
+    .bewertungen-block .common-section-title {
+        margin-right: 5%;
+    }
+    .online-analyse-block .cm-title-right-shape {
+        right: -45%;
+    }
+    .mitglied-werden-image {
+        max-width: 600px;
+    }
+    .mitglied-werden-content-block .common-desc-ul {
+        margin: 35px 0;
+    }
+    .mitglied-werden-title h3 {
+        font-size: 30px;
+    }
+    .mitglied-werden-image img {
+        border-radius: 30px;
+        min-height: 450px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .mitglied-werden-inner-block {
+        margin-top: 60px;
+    }
+    .mitglied-werden-content-block {
+        max-width: 510px;
+    }
+    /* ---------------- Service Page CSS Start ----------------*/
+    .service_page .common-banner-title h1 {
+        font-size: 62px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+}
+@media screen and (max-width: 767px) {
+    .bewertungen-owl.owl-theme .owl-nav button.disabled {
+        border: 1px solid var(--color-6);
+    }
+    .home-banner-content {
+        max-width: 100%;
+        padding-top: 20px;
+    }
+    .home-banner-image-block {
+        max-width: 575px;
+        margin: 0 auto;
+        left: 0;
+        position: relative;
+    }
+    .home-banner-content .home-banner-btn {
+        display: none;
+    }
+    .mobile-home-banner-btn {
+        display: block;
+    }
+    .leistungen-category-image {
+        display: none;
+    }
+    .leistungen-category-slider-block {
+        margin-top: 0px;
+    }
+    .leistungen-category-box {
+        padding: 20px;
+        border-radius: 0px;
+        margin: 40px -15px 0;
+    }
+    .leistungen-owl .item {
+        width: auto;
+    }
+    .all-section-underline {
+        padding-top: 0px;
+    }
+    .home-banner-section {
+        margin-bottom: 0;
+    }
+    .common-section-title h2 {
+        font-size: 40px;
+    }
+    .section-title-icon svg {
+        max-width: 40px;
+    }
+    .section-title-icon {
+        margin-right: 20px;
+    }
+    .cm-title-left-shape {
+        bottom: -40px;
+    }
+    .bewertungen-block .common-section-title {
+        margin-right: 0;
+    }
+    .bewertungen-image-col {
+        width: 100%;
+    }
+    .bewertungen-content-col {
+        width: 100%;
+        padding-left: 0;
+    }
+    .bewertungen-box {
+        max-width: 450px;
+        margin: 50px auto 0;
+        text-align: center;
+    }
+    .bewertungen-section {
+        padding-top: 0;
+    }
+    .bewertungen-img {
+        padding-top: 35px;
+    }
+    .bewertungen-img:before {
+        font-size: 200px;
+    }
+    .bewertungen-owl.owl-theme .owl-nav [class*=owl-] {
+        width: 35px;
+        height: 35px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        border: 2px solid var(--color-4);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+    }
+    .bewertungen-owl.owl-theme .owl-nav {
+        left: 0;
+        right: 0;
+        /*top: 50%;
+        */
+        top: 265px;
+        /* transform: translateY(-50%); */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        width: 100%;
+        bottom: unset;
+        /* -webkit-transform: translateY(-50%); */
+        /* -moz-transform: translateY(-50%); */
+        /* -ms-transform: translateY(-50%); */
+        /* -o-transform: translateY(-50%); */
+    }
+    .bewertungen-owl.owl-carousel .owl-nav button.owl-prev:after {
+        display: none;
+    }
+    .bewertungen-content {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    .bewertungen-slider-title {
+        -webkit-box-ordinal-group: 0;
+        -ms-flex-order: -1;
+        order: -1;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-flow: column;
+        flex-flow: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .bewertungen-slider-title h3 {
+        margin-right: 0;
+    }
+    .bewertungen-btn {
+        margin-top: 30px;
+    }
+    .online-analyse-section {
+        padding-top: 20px;
+    }
+    .online-analyse-image-block {
+        padding-left: 40px;
+    }
+    .online-analyse-content {
+        max-width: 100%;
+        z-index: 1;
+        bottom: -110px;
+        top: unset;
+        text-align: left;
+        padding: 0 15px;
+        left: 0;
+    }
+    .online-analyse-content .common-section-btn {
+        padding-top: 30px;
+    }
+    .online-analyse-content h3 {
+        font-size: 30px;
+        max-width: 200px;
+        text-align: right;
+    }
+    .mitglied-werden-image {
+        max-width: 480px;
+    }
+    .mitglied-werden-section {
+        margin-top: 110px;
+        padding-top: 50px;
+    }
+    .gf-left-col,
+    .gf-right-col {
+        width: 100%
+    }
+    .gf-right-col {
+        order: -1;
+    }
+    .spinner-img:after,
+    .fit-image-overlay {
+        display: none;
+    }
+    .fit-blog-image {
+        position: unset;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .fit-blog-img {
+        min-height: auto;
+    }
+    .fit-blog-image img {
+        border-radius: 20px;
+    }
+    .fit-blog-content-box {
+        max-width: 100%;
+        border-radius: 20px;
+        padding: 20px;
+        text-align: center;
+        padding-top: 35px;
+        position: relative;
+        min-height: auto;
+    }
+    .fit-sale-block {
+        position: unset;
+        margin: 0 auto;
+    }
+    .fit-wir-sale-block {
+        top: 0px;
+        margin-top: 50px;
+    }
+    .fit-blog-content-box .common-desc p {
+        margin: 0 auto;
+    }
+    .fit-blog-title h3 {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .fit-blog-content-box:before {
+        top: -35px;
+        font-size: 140px;
+        left: 20px;
+    }
+    .faq-block .cm-title-left-shape {
+        min-width: 130px;
+    }
+    .faq-col {
+        padding: 00px;
+        width: 100%;
+    }
+    .faq-accordion-block {
+        margin: 0;
+        padding: 70px 0 0;
+    }
+    .ct_accordion_wrap+.ct_accordion_wrap {
+        margin-top: 25px;
+        padding-top: 25px;
+    }
+    .faq-col+.faq-col {
+        display: none;
+    }
+    .ihr-erster-title h2 {
+        font-size: 50px;
+    }
+    .ihr-sub-title h4 {
+        font-size: 25px;
+    }
+    .ihr-form {
+        padding-top: 30px;
+    }
+    .ihr-erster-schritt-block {
+        border-radius: 20px;
+    }
+    .footer-inner-col {
+        width: 100%;
+    }
+    .footer-wrapper {
+        padding: 0 0 25px;
+    }
+    .footer-title h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    .footer-desc p,
+    .footer-desc p a {
+        font-size: 16px;
+    }
+    .footer-inner-col+.footer-inner-col {
+        margin-top: 40px;
+    }
+    .footer-social-icon ul {
+        max-width: 200px;
+    }
+    .footer-social-icon ul li a svg {
+        max-width: 33px;
+    }
+    .footer-social-icon {
+        padding: 40px 0;
+    }
+    .copy-rights-block {
+        flex-flow: column;
+        margin-top: 0;
+        text-align: center;
+    }
+    .copyright-menu {
+        order: -1;
+        margin-bottom: 5px;
+    }
+    .copyright-text p {
+        line-height: 1.4;
+    }
+    .leistungen-owl.owl-theme .owl-nav {
+        top: 100px;
+    }
+    /* ---------------- Course Page CSS Start ----------------*/
+    .vertical_slider {
+        max-width: 470px;
+    }
+    .montag_select {
+        min-width: 143px;
+        display: inline-block;
+    }
+    .vertical_box_slider .slick-next {
+        top: 15px;
+    }
+    .vertical_box_slider .slick-prev {
+        top: 65px;
+    }
+    .montag_category {
+        margin-top: 15px;
+    }
+    .category_montag_block {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .montag_ctg_list {
+        max-width: 470px;
+    }
+    .square_box {
+        height: 165px;
+        width: 50%;
+    }
+    .number_circle svg {
+        width: 70px;
+        height: 70px;
+    }
+    .plan_page span {
+        font-size: 22px;
+    }
+    .number_circle_block .number_info {
+        max-width: calc(100% - 77px);
+        padding-left: 20px;
+    }
+    .plan_right_imgs {
+        padding-left: 30px;
+    }
+    .tab_slider .p_img {
+        max-width: 215px;
+    }
+    .p_img_top {
+        top: 150px;
+    }
+    /* ---------------- Course Page CSS End ----------------*/
+    /* ---------------- Service Page CSS Start ----------------*/
+    .service_leistungen_section {
+        padding-bottom: 50px;
+    }
+    .sale_section .fit-sale-box {
+        height: auto;
+        border-radius: 0 20px 20px 20px;
+    }
+    .sale_section .wir-sale-details {
+        flex-wrap: wrap;
+        margin-bottom: 10px;
+    }
+    .sale_section .wir-shape-block {
+        max-width: 304px;
+    }
+    .wir-line-shape {
+        left: -54px;
+    }
+    .sale_section .wir-clip-shape {
+        clip-path: polygon(0 0, 100% 0%, 100% 100%, 63% 100%);
+    }
+    .service_card_outer {
+        padding-top: 40px;
+    }
+    .service_card {
+        margin-bottom: 40px;
+    }
+    .middle_card .service_card_data {
+        padding-right: 20px;
+    }
+    .service_info {
+        margin-bottom: 5px;
+    }
+    .service_checkmark {
+        width: 21px;
+        margin-right: 10px;
+    }
+    .number_block .number {
+        font-size: 18px;
+    }
+    .all_services .owl-carousel .owl-nav button.owl-prev {
+        top: 210px;
+        left: 13px;
+    }
+    .all_services .owl-carousel .owl-nav button.owl-next {
+        top: 210px;
+        right: 13px;
+    }
+    .sale_section .fit-sale-block {
+        max-width: 545px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+    /* ---------------- Studio Page CSS Start ----------------*/
+    .bottom_sldier_section {
+        padding-bottom: 85px;
+    }
+    .gallery_section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .gallery_block {
+        margin-top: 40px;
+    }
+    .unser_team_slider .owl-theme .owl-nav,
+    .bottom_slider .owl-theme .owl-nav {
+        right: 70px;
+        bottom: -80px;
+        position: absolute;
+    }
+    .gall_imgbox_right {
+        padding-left: 0px;
+        padding-top: 70px;
+    }
+    .img_box {
+        margin-bottom: 30px;
+    }
+    .gall_img3 {
+        max-width: 190px;
+    }
+    .gall_img2 {
+        max-width: 210px;
+    }
+    /* ---------------- Studio Page CSS End ----------------*/
+    /* ---------------- Contact Page CSS Start ----------------*/
+    /* Öffnungszeiten Section Start */
+    .contact_section .vertical_text span {
+        display: none;
+    }
+    .contact_section .contact_three {
+        align-items: baseline;
+        margin-top: 59px;
+        padding-bottom: 24px;
+    }
+    .contact_section .contact_schedule .schedule_data h5,
+    .contact_section .contact_schedule .schedule_data p,
+    .contact_section .contact_three a,
+    .contact_section .contact_address p {
+        font-size: 16px;
+    }
+    .contact_section .contact_right_side .schedule_title {
+        margin-bottom: 35px;
+        margin-top: 35px;
+    }
+    .contact_section .contact_inner_title {
+        width: 120px;
+    }
+    .contact_section .schedule_inner {
+        max-width: 370px;
+    }
+    .contact_section .contact_left_side h4,
+    .contact_section .contact_right_side h4 {
+        font-size: 22px;
+    }
+    .contact_section .contact_detail {
+        width: calc(100% - 119px);
+    }
+    .contact_section {
+        padding-bottom: 0px;
+    }
+    /* Öffnungszeiten Section End */
+    /* Form Section Start */
+    .form_section .form_inner {
+        margin-top: 20px;
+    }
+    .form_section form {
+        max-width: 100%;
+    }
+    .form_section .form_title h3 {
+        font-size: 22px;
+    }
+    .form_section .input_boxes input,
+    .form_section .input_boxes textarea {
+        padding: 7px 20px;
+        font-size: 16px;
+    }
+    /* Form Section End */
+    /* ---------------- Contact Page CSS End ----------------*/
+    /* ---------------- News Page CSS Start ----------------*/
+    /* News Banner Section Start */
+    .news_section .news_inner_three .news__right_side p,
+    .more_main .moreless-button span,
+    .news__date {
+        font-size: 16px;
+    }
+    .news_section .owl-carousel .owl-nav button.owl-prev,
+    .news_section .owl-carousel .owl-nav button.owl-next,
+    .all_services .owl-carousel .owl-nav button.owl-prev,
+    .all_services .owl-carousel .owl-nav button.owl-next {
+        position: absolute;
+    }
+    .news_section .owl-carousel .owl-nav button.owl-prev {
+        top: 225px;
+        left: -15px;
+    }
+    .news_section .owl-carousel .owl-nav button.owl-next {
+        top: 225px;
+        right: -15px;
+    }
+    .moreless-button .down-arrow {
+        margin-left: 9px;
+    }
+    .down-arrow svg {
+        width: 15px;
+    }
+    .gradient_section .gradient_box {
+        border-radius: 30px;
+    }
+    .gradient_section {
+        padding-bottom: 50px;
+    }
+    /* News Banner Section End */
+    /* ---------------- News Page CSS End ----------------*/
+}
+@media screen and (max-width: 575px) {
+    .common-banner-title h1::after {
+        top: 28px;
+        height: 15px;
+    }
+    .kurs_plan_slider .owl-carousel .owl-nav button.disabled {
+        border: 1px solid var(--color-6);
+        opacity: 1;
+    }
+    .common-banner-title h1 {
+        font-size: 48px;
+    }
+    .home-banner-sub-title h2 {
+        font-size: 26px;
+    }
+    .leistungen-owl.owl-carousel .owl-item .lc-slider-image img {
+        max-height: 350px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .leistungen-owl.owl-theme .owl-nav {
+        top: 30%;
+    }
+    .leistungen-category-box {
+        margin-top: 20px;
+    }
+    .common-btn {
+        font-size: 16px;
+        padding: 9px 15px;
+    }
+    .bewertungen-img {
+        padding: 15px 6px 6px 0;
+        max-width: 280px;
+        margin: 0 auto;
+    }
+    .bewertungen-img img {
+        border-radius: 20px;
+    }
+    .bewertungen-img:before {
+        font-size: 130px;
+        left: 20px;
+    }
+    .bewertungen-img-shape {
+        width: 150px;
+        height: 150px;
+    }
+    .bewertungen-content-col {
+        padding-top: 30px;
+    }
+    .bewertungen-slider-title h3 {
+        font-size: 22px;
+    }
+    .bewertungen-slider-title p,
+    .bewertungen-content .common-desc p {
+        font-size: 16px;
+    }
+    .bewertungen-content .common-desc p {
+        margin-bottom: 30px;
+    }
+    .online-analyse-image img {
+        min-height: 250px;
+    }
+    .online-analyse-content h3 {
+        font-size: 22px;
+        max-width: 150px;
+    }
+    .online-analyse-block .common-section-title {
+        margin-right: 0;
+    }
+    .common-section-title h2 {
+        font-size: 30px;
+        text-shadow: 0px 2px 0px var(--color-2);
+    }
+    .online-analyse-image-block {
+        margin-top: 40px;
+    }
+    .mitglied-werden-inner-block {
+        margin-top: 40px;
+    }
+    .mitglied-werden-image {
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: -15px;
+    }
+    .mitglied-werden-image img {
+        border-radius: 20px;
+        min-height: 400px;
+    }
+    .mitglied-werden-content-block {
+        max-width: 100%;
+        border-radius: 20px;
+        padding: 20px;
+    }
+    .common-desc-ul li {
+        font-size: 16px;
+        padding-left: 40px;
+    }
+    .common-desc-ul li svg {
+        max-width: 22px;
+    }
+    .mitglied-werden-title h3 {
+        font-size: 22px;
+    }
+    .mitglied-werden-content-block .common-section-btn {
+        display: none;
+    }
+    .mobile-mitglied-btn {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .mitglied-werden-content-block .common-desc-ul {
+        margin: 25px 0 0;
+    }
+    .gewinnspiel-block .common-section-title {
+        margin: 0;
+    }
+    .gewinnspiel-block .cm-title-right-shape {
+        right: -40%;
+    }
+    .wie-dein-link,
+    .wi-col-left .wi-product-btn {
+        display: none;
+    }
+    .wi-col-right,
+    .wi-col-left {
+        width: 50%;
+    }
+    .wi-col-right {
+        order: -1;
+    }
+    .wir-product-img {
+        top: 0;
+    }
+    .wir-sale-details {
+        justify-content: center;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .mobile-wi-product {
+        display: block;
+    }
+    .wir-clip-shape {
+        clip-path: polygon(0 60%, 100% 20%, 100% 100%, 0% 100%);
+        -webkit-clip-path: polygon(0 60%, 100% 20%, 100% 100%, 0% 100%);
+    }
+    .wir-sale-title h2 {
+        font-size: 60px;
+        padding-left: 0;
+    }
+    .wi-content-block {
+        align-items: center;
+        max-width: 450px;
+        margin: 15px auto 60px;
+    }
+    .wir-shape-block {
+        max-width: 100%;
+        bottom: 0;
+        top: unset;
+        height: 225px;
+    }
+    .wi-product-btn a {
+        font-weight: 400;
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+    .desk_shape {
+        display: none;
+    }
+    .mobile-shape {
+        display: block;
+    }
+    .wir-line-shape {
+        top: -23px;
+        left: 0;
+        transform: rotate(5deg);
+    }
+    .fit-blog-title h3 {
+        font-size: 22px;
+    }
+    .fit-blog-content-box .common-desc p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .common-section-desc p {
+        font-size: 16px;
+    }
+    .ct_accordion_lable h3 {
+        font-size: 18px;
+    }
+    .ct_accordion_lable span {
+        right: 5px;
+    }
+    .faq-block .cm-title-left-shape {
+        min-width: 100px;
+    }
+    .faq-accordion-block {
+        padding-top: 40px;
+    }
+    .faq-block .cm-title-right-shape {
+        right: -90px;
+        max-width: 90px;
+    }
+    .faq-block .cm-title-left-shape {
+        min-width: 110px;
+        left: -100px;
+        z-index: 1;
+    }
+    .ihr-erster-title h2 {
+        font-size: 40px;
+    }
+    .ihr-sub-title h4 {
+        font-size: 20px;
+    }
+    .common-input-filed input {
+        min-height: 40px;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .common-form-checkbox label:before {
+        width: 22px;
+        height: 22px;
+    }
+    .common-form-checkbox label:after {
+        width: 8px;
+        height: 15px;
+        left: 10px;
+    }
+    /* ---------------- Course Page CSS Start ----------------*/
+    .montag_ctg_list li a {
+        text-align: center;
+    }
+    .montag_ctg_list li:first-child {
+        min-width: 35px;
+    }
+    .montag_ctg_list li {
+        min-width: 90px;
+    }
+    .mobile_view_hide {
+        display: none !important;
+    }
+    .krus_btn {
+        display: block;
+    }
+    .square_box:first-child {
+        border-top: 1px solid rgba(255, 255, 255, 0.631);
+    }
+    .vertical_box_slider {
+        margin-top: 20px;
+    }
+    .montag_ctg_list {
+        max-width: 100%;
+    }
+    .montag_category,
+    .category_montag_block {
+        width: 100%;
+    }
+    .vertical_slider {
+        max-width: 500px;
+        padding: 0 15px;
+    }
+    .square_box {
+        border-top: 0;
+        height: 100%;
+        width: 100%;
+    }
+    .box_title h5 {
+        font-size: 16px;
+    }
+    .box_time_block p {
+        padding-top: 5px;
+    }
+    .box_time_block p::before,
+    .square_box .box_top_text,
+    .square_box_btn {
+        display: none;
+    }
+    .vertical_box_slider .slick-arrow {
+        display: none !important;
+    }
+    .kurs_plan_slider .owl-theme .owl-nav {
+        right: 0;
+        top: 107px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .kurs_plan_slider .owl-theme .owl-dots,
+    .owl-theme .owl-nav {
+        margin-top: 30px;
+    }
+    .tab_section {
+        margin-top: 20px;
+    }
+    .kurs_plan_section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .kurs_plan_slider .owl-carousel .owl-nav button.owl-next {
+        position: absolute;
+        right: -18px;
+    }
+    .kurs_plan_slider .owl-carousel .owl-nav button.owl-prev {
+        left: -18px;
+    }
+    .tab_slider .nav-tabs {
+        height: 50px;
+    }
+    .tab_slider .nav-tabs .nav-link::after {
+        bottom: -1px;
+    }
+    .tab_slider .nav-tabs .nav-item.show .nav-link,
+    .tab_slider .nav-tabs .nav-link.active {
+        font-size: 20px;
+    }
+    .tab_slider .nav-tabs .nav-link {
+        width: 86px;
+        font-size: 16px;
+        padding: 9px 2px;
+    }
+    .kurs_plan_slider .owl-carousel .owl-nav button.owl-prev:after {
+        display: none;
+    }
+    .kurs_plan_slider {
+        margin-top: 40px;
+    }
+    .page_items {
+        flex-direction: column;
+    }
+    .plan_right_imgs {
+        padding-left: 0;
+    }
+    .plan_page {
+        order: 1;
+        margin-top: 30px;
+    }
+    .plan_two_imgs {
+        width: 100%;
+    }
+    .tab_slider .p_img img {
+        border-radius: 30px;
+    }
+    .tab_slider .p_img {
+        height: 255px;
+        max-width: 100%;
+        padding: 5px;
+        border-radius: 30px;
+        background: transparent linear-gradient(180deg, var(--color-2) 0%, var(--color-3) 100%) 0% 0% no-repeat padding-box;
+    }
+    .p_img_top {
+        position: unset;
+    }
+    .p_img_bottom {
+        display: none;
+    }
+    .plan_page,
+    .plan_right_imgs {
+        width: 100%;
+    }
+    .kurs_plan_slider .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: 20px;
+    }
+    .tab_slider .nav-tabs {
+        max-width: 390px;
+    }
+    .mobile_hide_table {
+        display: none !important;
+    }
+    .verical_slider_section {
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+    /* ---------------- Course Page CSS End ----------------*/
+    /* ---------------- Service Page CSS Start ----------------*/
+    .sale_section {
+        margin-top: 50px;
+        margin-bottom: 40px;
+        padding: 0 15px;
+    }
+    .service_card_outer::after {
+        height: 1px;
+        content: ' ';
+        width: 93%;
+        bottom: -30px;
+        position: absolute;
+        background-color: var(--color-4);
+        margin: 0px 15px;
+    }
+    .number_block .number {
+        font-size: 16px;
+    }
+    .checkmark_label p,
+    .service_description {
+        font-size: 16px;
+        font-weight: 100;
+        color: var(--color-4);
+    }
+    .service_description {
+        margin-top: 20px;
+    }
+    .service_subtext h4 {
+        font-size: 22px;
+        margin: 20px 0;
+    }
+    .services_block {
+        margin-top: 20px;
+    }
+    .service_info {
+        align-items: flex-start;
+        margin-bottom: 16px;
+    }
+    .service_info:last-child {
+        margin-bottom: 0;
+    }
+    .service_page .common-banner-title h1 {
+        font-size: 48px;
+    }
+    .service_card {
+        margin: 0px 20px;
+        flex-direction: column;
+    }
+    .service_card_data {
+        width: 100%;
+    }
+    .middle_card .service_card_data {
+        order: 2;
+    }
+    .service_card_img {
+        width: 100%;
+        height: 250px;
+        border-radius: 20px;
+    }
+    .desktop_view_number {
+        display: none;
+    }
+    .mobile_view_number {
+        display: flex;
+    }
+    .service_card_data {
+        padding-left: 0px;
+    }
+    .service_btn {
+        margin-top: 20px;
+    }
+    .all_services .owl-carousel .owl-nav button.owl-prev {
+        top: 235px;
+        left: 0;
+    }
+    .all_services .owl-carousel .owl-nav button.owl-next {
+        top: 235px;
+        right: 0;
+    }
+    .all_services .owl-carousel .owl-dots {
+        margin-top: 20px;
+    }
+    .service_leistungen_section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .service_checkmark svg {
+        width: 16px;
+    }
+    .service_checkmark {
+        width: 16px;
+        margin-right: 18px;
+    }
+    .sale_section .wir-clip-shape {
+        clip-path: polygon(0 53%, 100% 10%, 100% 100%, 0% 100%);
+    }
+    .sale_section .wir-shape-block {
+        max-width: 100%;
+        height: 190px;
+    }
+    .sale_section .wir-line-shape {
+        top: -36px;
+        transform: rotate(6deg);
+    }
+    .sale_section .fit-wir-label p {
+        font-size: 24px;
+    }
+    .sale_section .fit-wir-label {
+        width: 215px;
+    }
+    .sale_section .two_title {
+        display: block;
+        order: 2;
+    }
+    .sale_section .wir-sale-title h2 {
+        font-size: 51px;
+    }
+    .sale_section .wir-new-product h3 {
+        font-size: 27px;
+    }
+    .sale_section .wir-new-product p {
+        font-size: 20px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+    /* ---------------- Studio Page CSS Start ----------------*/
+    .unser_team_slider .unser_team_img {
+        padding: 3px;
+    }
+    .unser_item {
+        max-width: 177px;
+        margin-left: auto;
+    }
+    .unser_team_slider .owl-carousel .owl-nav button.owl-prev {
+        margin-left: -15%;
+    }
+    .bottom_sldier_section {
+        padding-bottom: 15px;
+    }
+    .unser_team_section {
+        padding-bottom: 50px;
+    }
+    .unser_team_slider .unser_team_img img {
+        max-height: 377px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .unser_team_section .slider_padding-left {
+        padding-left: 20%;
+    }
+    .unser_team_section {
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+    .team_member_details h3 {
+        font-size: 16px;
+        padding-bottom: 5px;
+    }
+    .unser_team_section .slider_padding-left {
+        padding-left: 20%;
+    }
+    .unser_team_slider .owl-theme .owl-dots {
+        margin-top: 30px;
+        margin-left: -24%;
+    }
+    .gallery_block {
+        margin-top: 30px;
+    }
+    .gallery_section .col-6:first-child {
+        padding-right: 0;
+    }
+    .gall_img1 {
+        max-width: 200px;
+    }
+    .gall_img4 {
+        max-width: 190px;
+    }
+    .gall_img3 {
+        max-width: 150px;
+    }
+    .gall_img2 {
+        max-width: 150px;
+    }
+    .img_box {
+        margin-bottom: 20px;
+        border: 0.5px solid var(--color-4);
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+}
+    .gall_imgbox_right {
+        padding-top: 40px;
+        padding-left: 0px;
+    }
+    .bottom_slider .owl-theme .owl-nav button,
+    .unser_team_slider .owl-theme .owl-nav button,
+    .kurs_plan_slider .owl-theme .owl-nav button {
+        width: 35px;
+        height: 35px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        border: 2px solid var(--color-4);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+    }
+    .bottom_slider .owl-theme .owl-nav,
+    .unser_team_slider .owl-theme .owl-nav {
+        top: 40%;
+        height: 40px;
+        transform: translateY(-50%);
+        width: 100%;
+        right: 20px;
+        display: flex;
+        position: absolute;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .montag_ctg_list {
+        -webkit-box-pack: space-between;
+        -ms-flex-pack: space-between;
+        justify-content: space-between;
+        padding-left: 0px;
+    }
+    .bottom_slider {
+        padding-left: 5%;
+    }
+    .unser_team_slider .owl-carousel .owl-nav button.owl-prev:after,
+    .bottom_slider .owl-carousel .owl-nav button.owl-prev:after {
+        display: none;
+    }
+    .bottom_slider .owl-theme .owl-dots {
+        margin-top: 30px;
+        margin-left: -5%;
+    }
+    /* ---------------- Studio Page CSS End ----------------*/
+    /* ---------------- Contact Page CSS Start ----------------*/
+    /* Öffnungszeiten Section Start */
+    .contact_section .contact_right_side .schedule_title {
+        margin-top: 65px;
+    }
+    .contact_section {
+        padding-top: 50px;
+    }
+    .contact_section .contact_right_side {
+        border-left: unset;
+        padding-left: 0px;
+    }
+    .contact_section .contact_three .contact_numbering span,
+    .contact_section .contact_right_side .contact_numbering span {
+        display: block;
+    }
+    .contact_detail {
+        width: calc(100% - 60px);
+    }
+    .contact_section {
+        padding-bottom: 0px;
+    }
+    /* Öffnungszeiten Section End */
+    /* Form Section Start */
+    .form_section .form_inner {
+        padding: 20px 0px 50px;
+    }
+    .form_section .cm-title-right-shape {
+        right: -32%;
+    }
+    .form_section .first_two_input {
+        flex-direction: column;
+    }
+    .form_section .form_title {
+        padding-bottom: 30px;
+    }
+    .form_section .form_check_box .round label {
+        font-size: 13px;
+    }
+    .form_section {
+        padding-top: 50px;
+    }
+    .contact_section .contact_three {
+        padding-bottom: 19px;
+    }
+    .contact_section {
+        padding-bottom: 10px;
+    }
+    /* Form Section End */
+    /* ---------------- Contact Page CSS End ----------------*/
+    /* ---------------- News Page CSS Start ----------------*/
+    /* Gradeint Section Start */
+    .gradient_section .gradient_btn a {
+        font-size: 16px;
+        width: 100%;
+        padding: 9px 20px;
+    }
+    .gradient_section .gredient_title h2 {
+        text-align: center;
+        font-size: 40px;
+    }
+    .gradient_section .gradient_paragraph p {
+        font-size: 16px;
+        margin: 15px 0px;
+    }
+    .news_section .news_inner {
+        padding-top: 60px;
+    }
+    .news_section .news_slider_owl {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    /* Gradeint Section End */
+    /* ---------------- News Page CSS End ----------------*/
+    .bewertungen-owl.owl-theme .owl-nav {
+        top: 165px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .footer-fixed-icon {
+        display: block;
+    }
+    body {
+        padding-bottom: 40px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .circle_outer svg {
+        width: 350px;
+        left: -15px;
+        top: -151px;
+    }
+    .common-border-btn,
+    .common-btn {
+        max-width: 100%;
+    }
+    .leistungen-owl.owl-carousel .owl-item .lc-slider-image img {
+        max-height: 250px;
+    }
+    .leistungen-owl.owl-theme .owl-nav {
+        top: 25%;
+    }
+    .common-section-title h2 {
+        font-size: 26px;
+    }
+    .section-title-icon svg {
+        max-width: 25px;
+    }
+    .section-title-icon {
+        margin-right: 10px;
+    }
+    .cm-title-right-shape {
+        top: -20px;
+    }
+    .cm-title-left-shape {
+        bottom: -30px;
+    }
+    .common-section-title {
+        padding: 0px 0 10px;
+    }
+    .bewertungen-img {
+        max-width: 200px;
+    }
+    .bewertungen-img-shape {
+        width: 100px;
+        height: 100px;
+    }
+    .online-analyse-image img {
+        min-height: 210px;
+    }
+    .online-analyse-image {
+        border-radius: 20px 0 0 20px;
+    }
+    .online-analyse-section {
+        padding-top: 0;
+    }
+    .online-analyse-block .cm-title-right-shape {
+        right: -32%;
+        max-width: 80px;
+    }
+    .online-analyse-block .cm-title-left-shape {
+        left: -50%;
+        max-width: 130px;
+    }
+    .mitglied-werden-image {
+        max-width: 265px;
+    }
+    .mitglied-werden-image img {
+        min-height: 370px;
+        object-position: 70% 100%;
+    }
+    .wheel--box .wheel--box-inner {
+        width: 320px;
+        height: 335px;
+    }
+    .wheel--button a {
+        width: 80px;
+        height: 80px;
+        font-size: 15px;
+    }
+    .spinner-img {
+        padding: 20px;
+        top: 3px;
+    }
+    .wheel--box-inner #stars {
+        height: 50px;
+    }
+    .gf-inner-title h3,
+    .gf-sub-title h3 {
+        font-size: 16px;
+    }
+    .gewinnspiel-title h2 span,
+    .gewinnspiel-title h2 {
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+    .fit-blog-section .cm-title-right-shape {
+        right: -75%;
+        max-width: 80px;
+    }
+    .wir-shape-block {
+        height: 200px;
+    }
+    .wir-clip-shape {
+        clip-path: polygon(0 55%, 100% 21%, 100% 100%, 0% 100%);
+        -webkit-clip-path: polygon(0 55%, 100% 21%, 100% 100%, 0% 100%);
+    }
+    /* ---------------- Course Page CSS Start ----------------*/
+    .number_circle svg {
+        width: 65px;
+        height: 65px;
+    }
+    .number_circle_block {
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+    }
+    .montag_category {
+        overflow-x: scroll;
+    }
+    .montag_ctg_list {
+        min-width: fit-content;
+    }
+    .montag_ctg_list li:last-child {
+        display: block !important;
+    }
+    .kurs_plan_slider .owl-theme .owl-dots,
+    .owl-theme .owl-nav {
+        margin-top: 20px;
+    }
+    .tab_slider .nav-tabs .nav-item.show .nav-link,
+    .tab_slider .nav-tabs .nav-link.active {
+        font-size: 18px;
+    }
+    .plan_page span {
+        font-size: 20px;
+    }
+    .number_info h3 {
+        font-size: 16px;
+    }
+    .montag_ctg_list li a {
+        padding: 10px;
+    }
+    /* ---------------- Course Page CSS End ----------------*/
+    /* ---------------- Service Page CSS Start ----------------*/
+    .sale_section .wir-line-shape {
+        top: -38px;
+        -webkit-transform: rotate(362deg);
+        -ms-transform: rotate(362deg);
+        transform: rotate(362deg);
+    }
+    .all_services .owl-carousel .owl-nav button.owl-prev {
+        top: 195px;
+        right: 0;
+    }
+    .all_services .owl-carousel .owl-nav button.owl-next {
+        top: 195px;
+        right: 0;
+    }
+    .service_card_img {
+        width: 100%;
+        height: 171px;
+        border-radius: 20px;
+    }
+    .sale_section .wir-shape-block {
+        height: 181px;
+    }
+    /* ---------------- Service Page CSS End ----------------*/
+    /* ---------------- Studio Page CSS Start ----------------*/
+    .studio_page .gradient_section {
+        padding-top: 20px;
+    }
+    .unser_team_slider .owl-carousel .owl-nav button.owl-next,
+    .bottom_slider .owl-carousel .owl-nav button.owl-next {
+        margin-right: -3%;
+    }
+    .bottom_slider {
+        padding-left: 7%;
+    }
+    .gallery_section {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .bottom_sldier_section {
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    .unser_team_section {
+        padding-bottom: 45px;
+    }
+    .unser_team_slider {
+        padding-top: 40px;
+    }
+    /* ---------------- Studio Page CSS End ----------------*/
+    /* ---------------- Contact Page CSS Start ----------------*/
+    /* Öffnungszeiten Section Start */
+    .contact_section .contact_detail {
+        width: 50%;
+    }
+    .contact_section .schedule_inner {
+        max-width: 300px;
+    }
+    .form_section .cm-title-left-shape {
+        max-width: 57%;
+        left: -50%;
+    }
+    .contact_section .contact_inner_title {
+        width: 50%;
+    }
+    /* Öffnungszeiten Section End*/
+    /* ---------------- Contact Page CSS End ----------------*/
+    .bewertungen-owl.owl-theme .owl-nav {
+        top: 135px;
+    }
+    .mitglied-werden-section {
+        margin-top: 90px;
+    }
+    .gf-inner-title {
+        padding: 15px 0;
+        padding-top: 4px;
+    }
+    .gf-inner-title h3+h3 {
+        margin-top: 5px;
+    }
+    .gf-details-block {
+        margin-top: -5px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .wir-product-img img {
+        max-width: 120px;
+    }
+    .wir-sale-title h2 {
+        font-size: 51px;
+    }
+    .wir-clip-shape {
+        clip-path: polygon(0 53%, 100% 24%, 100% 100%, 0% 100%);
+        -webkit-clip-path: polygon(0 53%, 100% 24%, 100% 100%, 0% 100%);
+    }
+    .sale_section .wir-line-shape {
+        top: -33px;
+        transform: rotate(362deg);
+        -webkit-transform: rotate(362deg);
+        -ms-transform: rotate(362deg);
+        -moz-transform: rotate(362deg);
+        -o-transform: rotate(362deg);
+    }
+    .wi-content-block {
+        margin: 15px auto 30px;
+    }
+}
+@media screen and (max-width: 367px) {
+    .circle_outer svg {
+        width: 320px;
+        left: -18px;
+        top: -173px;
+    }
+    .spinner-img {
+        padding: 10px;
+    }
+    .bewertungen-block .cm-title-right-shape {
+        max-width: 60px;
+        right: -30%;
+    }
+    .bewertungen-block .cm-title-left-shape {
+        max-width: 100px;
+        left: -45%;
+    }
+    .online-analyse-block .cm-title-left-shape {
+        left: -40%;
+        max-width: 110px;
+    }
+    .online-analyse-block .cm-title-right-shape {
+        right: -20%;
+        max-width: 60px;
+    }
+    .mitglied-werden-block .cm-title-right-shape {
+        right: -23%;
+        max-width: 60px;
+    }
+    .mitglied-werden-block .cm-title-left-shape {
+        max-width: 100px;
+        left: -35%;
+    }
+    .wheel--box .wheel--box-inner {
+        width: 280px;
+        height: 295px;
+    }
+    .wir-clip-shape {
+        clip-path: polygon(0 51%, 100% 27%, 100% 100%, 0% 100%);
+        -webkit-clip-path: polygon(0 51%, 100% 27%, 100% 100%, 0% 100%);
+    }
+    .wi-content-block {
+        padding: 10px;
+    }
+    .ihr-erster-title h2 {
+        font-size: 30px;
+    }
+    .ihr-sub-title h4 {
+        font-size: 18px;
+    }
+    .ihr-form .common-section-btn .common-btn {
+        font-size: 14px;
+    }
+    .footer-fixed-icon ul li a img {
+        width: 25px;
+        height: 25px;
+    }
+    .footer-fixed-icon.show {
+        height: 75px;
+    }
+    .gradient_section .gredient_title h2 {
+        font-size: 30px;
+    }
+    /* Sale Section  */
+    .sale_section .wir-shape-block {
+        height: 190px;
+    }
+    .tab_slider .nav-tabs .nav-link {
+        width: 80px;
+    }
+    .montag_ctg_list li a,
+    .montag_dropdown {
+        padding: 7px;
+    }
+    .montag_dropdown>p::after {
+        top: 9px;
+    }
+    .sale_section .wir-line-shape {
+        top: -20px;
+        -webkit-transform: rotate(366deg);
+        -ms-transform: rotate(366deg);
+        transform: rotate(366deg);
+    }
+    .sale_section .wir-clip-shape {
+        clip-path: polygon(0 51%, 100% 27%, 100% 100%, 0% 100%);
+        -webkit-clip-path: polygon(0 51%, 100% 27%, 100% 100%, 0% 100%);
+    }
+}
